@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_personal>
+    <plantel>PLANTEL</plantel>
+    <funcion>FUNCION</funcion>
+    <cantidad>CANTIDAD</cantidad>
+    <descripcion>DESCRIPCION</descripcion>
+    <identificador>IDENTIFICADOR</identificador>
+    <tipo>TIPO</tipo>
+    <cod_est>COD_EST</cod_est>
+    <escogido>PERSONAL ESCOGIDO</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. BARINAS</plantel>
+    <funcion>ADMINISTRATIVO</funcion>
+    <cantidad>1</cantidad>
+    <descripcion>rrrrrrrrrrrrr</descripcion>
+    <identificador>12</identificador>
+    <tipo>0</tipo>
+    <cod_est>WASEQWE123</cod_est>
+    <escogido>ADMINISTRATIVO</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. ANIME</plantel>
+    <funcion>ASEADOR</funcion>
+    <cantidad>2</cantidad>
+    <descripcion>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+</descripcion>
+    <identificador>33</identificador>
+    <tipo>1</tipo>
+    <cod_est>WASEQWE123</cod_est>
+    <escogido>OBRERO</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. ANIME</plantel>
+    <funcion>SUBDIRECTOR</funcion>
+    <cantidad>2</cantidad>
+    <descripcion>aaaaaaa
+</descripcion>
+    <identificador>15</identificador>
+    <tipo>2</tipo>
+    <cod_est>WASEQWE123</cod_est>
+    <escogido>DOCENTE</escogido>
+  </necesidad_personal>
+</plantel>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_personal>
+    <plantel>NO APLICA</plantel>
+    <funcion>NO APLICA</funcion>
+    <cantidad>NO APLICA</cantidad>
+    <descripcion>NO APLICA</descripcion>
+    <identificador>NO APLICA</identificador>
+    <tipo>NO APLICA</tipo>
+    <cod_est>NO APLICA</cod_est>
+    <escogido>NO APLICA</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <funcion>ASEADOR</funcion>
+    <cantidad>4</cantidad>
+    <descripcion>sdadasd</descripcion>
+    <identificador>33</identificador>
+    <tipo>1</tipo>
+    <cod_est>DDD44KKK</cod_est>
+    <escogido>OBRERO</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <funcion>DOC. AJEDRES</funcion>
+    <cantidad>6</cantidad>
+    <descripcion>asdasdasd</descripcion>
+    <identificador>27</identificador>
+    <tipo>2</tipo>
+    <cod_est>DDD44KKK</cod_est>
+    <escogido>DOCENTE</escogido>
+  </necesidad_personal>
+  <necesidad_personal>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <funcion>ADMINISTRATIVO</funcion>
+    <cantidad>3</cantidad>
+    <descripcion>asdasdasd</descripcion>
+    <identificador>12</identificador>
+    <tipo>0</tipo>
+    <cod_est>DDD44KKK</cod_est>
+    <escogido>ADMINISTRATIVO</escogido>
+  </necesidad_personal>
+</plantel>

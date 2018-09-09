@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <p_p_p>
+    <plantel>NO APLICA</plantel>
+    <ejecutado>NO APLICA</ejecutado>
+    <formado>NO APLICA</formado>
+    <cod_est>NO APLICA</cod_est>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <ejecutado>PROYECTO P.A.E.</ejecutado>
+    <formado>SI</formado>
+    <cod_est>DDD44KKK</cod_est>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <ejecutado>PROYECTO CANAIMA</ejecutado>
+    <formado>SI</formado>
+    <cod_est>DDD44KKK</cod_est>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <ejecutado>PROYECTO DE RADIO ESCOLAR</ejecutado>
+    <formado>SI</formado>
+    <cod_est>DDD44KKK</cod_est>
+  </p_p_p>
+</plantel>

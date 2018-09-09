@@ -1,0 +1,8 @@
+object vesquemas: Tvesquemas
+  Left = 478
+  Height = 312
+  Top = 213
+  Width = 418
+  Caption = 'vesquemas'
+  LCLVersion = '1.2.4.0'
+end

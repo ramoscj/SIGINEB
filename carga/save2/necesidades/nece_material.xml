@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_material>
+    <plantel>NO APLICA</plantel>
+    <necesidad>NO APLICA</necesidad>
+    <descripcion>NO APLICA</descripcion>
+    <identificador>NO APLICA</identificador>
+    <cod_est>NO APLICA</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <necesidad>ARTICULOS DE OFICINA</necesidad>
+    <descripcion>asdasdasdasd</descripcion>
+    <identificador>6</identificador>
+    <cod_est>DDD44KKK</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <necesidad>ARTICULOS DE LIMPIEZA</necesidad>
+    <descripcion>asdasdasdasd</descripcion>
+    <identificador>7</identificador>
+    <cod_est>DDD44KKK</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <necesidad>ARTICULOS DEPORTIVOS</necesidad>
+    <descripcion>asdasdasdasd</descripcion>
+    <identificador>8</identificador>
+    <cod_est>DDD44KKK</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <necesidad>MOBILIARIO DE OFICINA</necesidad>
+    <descripcion>asdasdasdasd</descripcion>
+    <identificador>10</identificador>
+    <cod_est>DDD44KKK</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <necesidad>MESAS SILLAS</necesidad>
+    <descripcion>50</descripcion>
+    <identificador>10</identificador>
+    <cod_est>DDD44KKK</cod_est>
+  </necesidad_material>
+</plantel>

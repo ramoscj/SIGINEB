@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <datos_plantel>
+    <plantel>NO APLICA</plantel>
+    <ner>NO APLICA</ner>
+    <municipio>NO APLICA</municipio>
+    <dependencia>NO APLICA</dependencia>
+    <des_cdep>NO APLICA</des_cdep>
+    <tipo>NO APLICA</tipo>
+    <cod_adm>NO APLICA</cod_adm>
+    <cod_dea>NO APLICA</cod_dea>
+    <cod_est>NO APLICA</cod_est>
+    <telefono>NO APLICA</telefono>
+    <correo>NO APLICA</correo>
+    <horario>NO APLICA</horario>
+    <parroquia>NO APLICA</parroquia>
+    <direccion>NO APLICA</direccion>
+    <ubic_geograf>NO APLICA</ubic_geograf>
+    <longitud>NO APLICA</longitud>
+    <latitud>NO APLICA</latitud>
+    <resena>NO APLICA</resena>
+    <act_soce>NO APLICA</act_soce>
+    <act_socp>NO APLICA</act_socp>
+    <infraestructura>NO APLICA</infraestructura>
+    <tenencia>NO APLICA</tenencia>
+    <medidas_terreno>NO APLICA</medidas_terreno>
+    <plantel_constr>NO APLICA</plantel_constr>
+    <n_aulas>NO APLICA</n_aulas>
+    <n_banos>NO APLICA</n_banos>
+    <n_oficina>NO APLICA</n_oficina>
+    <area_cocina>NO APLICA</area_cocina>
+    <cancha_dep>NO APLICA</cancha_dep>
+    <bilioteca>NO APLICA</bilioteca>
+    <comedor>NO APLICA</comedor>
+    <cerca_perime>NO APLICA</cerca_perime>
+    <sala_compu>NO APLICA</sala_compu>
+    <n_pisos>NO APLICA</n_pisos>
+    <agua_blanca>NO APLICA</agua_blanca>
+    <agua_negra>NO APLICA</agua_negra>
+    <feha_hinte>NO APLICA</feha_hinte>
+  </datos_plantel>
+  <datos_plantel>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <ner>NO</ner>
+    <municipio>BARINAS</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>E.B.B. SIMON ANTONI JIMENZ</des_cdep>
+    <tipo>BOLIVARIANA	</tipo>
+    <cod_adm>7950059</cod_adm>
+    <cod_dea>YU51216OP</cod_dea>
+    <cod_est>DDD44KKK</cod_est>
+    <telefono>0426-8767479</telefono>
+    <correo>asdasd@gmail.c0m</correo>
+    <horario>8:00 A 4:00</horario>
+    <parroquia>BARINAS</parroquia>
+    <direccion>asdasdasdasd</direccion>
+    <ubic_geograf>URBANA</ubic_geograf>
+    <longitud>3412Â°</longitud>
+    <latitud>4a4d4Â°</latitud>
+    <resena>asdadasd</resena>
+    <act_soce>asdasdasd</act_soce>
+    <act_socp>asdasdasd</act_socp>
+    <infraestructura>PLANTEL COMPLETO</infraestructura>
+    <tenencia>PROPIA</tenencia>
+    <medidas_terreno>NO APLICA</medidas_terreno>
+    <plantel_constr>NO</plantel_constr>
+    <n_aulas>NO APLICA</n_aulas>
+    <n_banos>NO APLICA</n_banos>
+    <n_oficina>NO APLICA</n_oficina>
+    <area_cocina>SI</area_cocina>
+    <cancha_dep>NO APLICA</cancha_dep>
+    <bilioteca>NO APLICA</bilioteca>
+    <comedor>NO APLICA</comedor>
+    <cerca_perime>SI</cerca_perime>
+    <sala_compu>NO APLICA</sala_compu>
+    <n_pisos>NO APLICA</n_pisos>
+    <agua_blanca>SI</agua_blanca>
+    <agua_negra>SI</agua_negra>
+    <feha_hinte>14/06/2005</feha_hinte>
+  </datos_plantel>
+</plantel>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <matricula_plantel>
+    <plantel>NO APLICA</plantel>
+    <grado>NO APLICA</grado>
+    <seccion>NO APLICA</seccion>
+    <matricula_m>NO APLICA</matricula_m>
+    <matricula_f>NO APLICA</matricula_f>
+    <turno>NO APLICA</turno>
+    <nivel>NO APLICA</nivel>
+    <cod_est>NO APLICA</cod_est>
+  </matricula_plantel>
+  <matricula_plantel>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <grado>2</grado>
+    <seccion>C</seccion>
+    <matricula_m>3</matricula_m>
+    <matricula_f>20</matricula_f>
+    <turno>MAÃ‘ANA</turno>
+    <nivel>PRIMARIA</nivel>
+    <cod_est>DDD44KKK</cod_est>
+  </matricula_plantel>
+  <matricula_plantel>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <grado>3</grado>
+    <seccion>B</seccion>
+    <matricula_m>5</matricula_m>
+    <matricula_f>10</matricula_f>
+    <turno>MAÃ‘ANA</turno>
+    <nivel>PRIMARIA</nivel>
+    <cod_est>DDD44KKK</cod_est>
+  </matricula_plantel>
+</plantel>

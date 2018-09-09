@@ -1,0 +1,285 @@
+object vbdsalvar: Tvbdsalvar
+  Left = 165
+  Height = 203
+  Top = 221
+  Width = 850
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Opciones de base de datos'
+  ClientHeight = 203
+  ClientWidth = 850
+  OnCloseQuery = FormCloseQuery
+  Position = poScreenCenter
+  LCLVersion = '1.2.4.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 203
+    Top = 0
+    Width = 850
+    Align = alClient
+    BevelInner = bvRaised
+    BevelOuter = bvLowered
+    BevelWidth = 5
+    BorderWidth = 5
+    ClientHeight = 203
+    ClientWidth = 850
+    Color = 11368018
+    ParentColor = False
+    TabOrder = 0
+    object Panel2: TPanel
+      Left = 15
+      Height = 173
+      Top = 15
+      Width = 393
+      Align = alLeft
+      ClientHeight = 173
+      ClientWidth = 393
+      TabOrder = 0
+      object btnbd: TBitBtn
+        Left = 277
+        Height = 30
+        Top = 130
+        Width = 75
+        Caption = 'Relpaladar'
+        OnClick = btnbdClick
+        TabOrder = 0
+      end
+      object editdir: TEdit
+        Left = 184
+        Height = 23
+        Hint = 'Ejeplo:'#13#10'C:\esquemas\formato_esquema.sql'
+        Top = 87
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 1
+      end
+      object BitBtn1: TBitBtn
+        Cursor = crHandPoint
+        Left = 355
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 86
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn1Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object Label5: TLabel
+        Left = 8
+        Height = 21
+        Top = 87
+        Width = 165
+        Caption = 'Directorio de destino:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object Label1: TLabel
+        Left = 1
+        Height = 28
+        Top = 1
+        Width = 391
+        Align = alTop
+        Alignment = taCenter
+        Caption = 'Respaldar Base de datos'
+        Color = clSkyBlue
+        Font.Height = -20
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+        Transparent = False
+      end
+      object editdirpg: TEdit
+        Left = 184
+        Height = 23
+        Hint = 'Ejeplo:'#13#10'C:\esquemas\formato_esquema.sql'
+        Top = 48
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 3
+      end
+      object Label8: TLabel
+        Left = 1
+        Height = 21
+        Top = 48
+        Width = 173
+        Caption = 'Directorio de postgres:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object BitBtn4: TBitBtn
+        Cursor = crHandPoint
+        Left = 355
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 47
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn4Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 4
+      end
+    end
+    object ScrollBar1: TScrollBar
+      Left = 408
+      Height = 173
+      Top = 15
+      Width = 17
+      Align = alLeft
+      Kind = sbVertical
+      PageSize = 0
+      TabOrder = 1
+    end
+    object Panel3: TPanel
+      Left = 425
+      Height = 173
+      Top = 15
+      Width = 410
+      Align = alClient
+      ClientHeight = 173
+      ClientWidth = 410
+      TabOrder = 2
+      object Label2: TLabel
+        Left = 1
+        Height = 28
+        Top = 1
+        Width = 408
+        Align = alTop
+        Alignment = taCenter
+        Caption = 'Restaurar Bade de datos'
+        Color = clSkyBlue
+        Font.Height = -20
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+        Transparent = False
+      end
+      object BitBtn5: TBitBtn
+        Left = 293
+        Height = 30
+        Top = 130
+        Width = 75
+        Caption = 'Restaurar'
+        OnClick = BitBtn5Click
+        TabOrder = 0
+      end
+      object Label6: TLabel
+        Left = 8
+        Height = 21
+        Top = 87
+        Width = 179
+        Caption = 'Directorio del respaldo:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object editdir1: TEdit
+        Left = 200
+        Height = 23
+        Hint = 'Ejeplo:'#13#10'C:\esquemas\formato_esquema.sql'
+        Top = 87
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 1
+      end
+      object BitBtn2: TBitBtn
+        Cursor = crHandPoint
+        Left = 371
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 87
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn2Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object editdirpg1: TEdit
+        Left = 200
+        Height = 23
+        Hint = 'Ejeplo:'#13#10'C:\esquemas\formato_esquema.sql'
+        Top = 48
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 3
+      end
+      object BitBtn3: TBitBtn
+        Cursor = crHandPoint
+        Left = 371
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 47
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn3Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 4
+      end
+      object Label7: TLabel
+        Left = 14
+        Height = 21
+        Top = 48
+        Width = 173
+        Caption = 'Directorio de postgres:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+    end
+  end
+  object VentanaGuardar: TSaveDialog
+    Filter = 'sql|*.sql'
+    left = 520
+    top = 136
+  end
+  object Process1: TProcess
+    Active = False
+    Options = []
+    Priority = ppNormal
+    StartupOptions = []
+    ShowWindow = swoNone
+    WindowColumns = 0
+    WindowHeight = 0
+    WindowLeft = 0
+    WindowRows = 0
+    WindowTop = 0
+    WindowWidth = 0
+    FillAttribute = 0
+    left = 448
+    top = 136
+  end
+  object ventanadirr: TSelectDirectoryDialog
+    left = 168
+    top = 136
+  end
+  object ventanafile: TOpenDialog
+    left = 56
+    top = 136
+  end
+end

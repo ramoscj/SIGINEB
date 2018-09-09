@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nomina>
+  <recurso>
+    <cedula>NO APLICA</cedula>
+    <nombre_apellido>NO APLICA</nombre_apellido>
+    <desc_dependencia>NO APLICA</desc_dependencia>
+    <cod_depen>NO APLICA</cod_depen>
+    <cod_cargo>NO APLICA</cod_cargo>
+    <desc_cargo>NO APLICA</desc_cargo>
+    <dependencia>NO APLICA</dependencia>
+    <funcion>NO APLICA</funcion>
+    <otra_funcion>NO APLICA</otra_funcion>
+    <telefono>NO APLICA</telefono>
+    <correo>NO APLICA</correo>
+    <labora_plant>NO APLICA</labora_plant>
+    <donde_labora>NO APLICA</donde_labora>
+    <matricula_m>NO APLICA</matricula_m>
+    <matricula_f>NO APLICA</matricula_f>
+    <sexo>NO APLICA</sexo>
+    <grado>NO APLICA</grado>
+    <seccion>NO APLICA</seccion>
+    <fcha_ingplant>NO APLICA</fcha_ingplant>
+    <nivel_instru>NO APLICA</nivel_instru>
+    <estudia>NO APLICA</estudia>
+    <detalle_estudio>NO APLICA</detalle_estudio>
+  </recurso>
+  <recurso>
+    <cedula>NO APLICA</cedula>
+    <nombre_apellido>NO APLICA</nombre_apellido>
+    <desc_dependencia>NO APLICA</desc_dependencia>
+    <cod_depen>NO APLICA</cod_depen>
+    <cod_cargo>NO APLICA</cod_cargo>
+    <desc_cargo>NO APLICA</desc_cargo>
+    <dependencia>NO APLICA</dependencia>
+    <funcion>NO APLICA</funcion>
+    <otra_funcion>NO APLICA</otra_funcion>
+    <telefono>NO APLICA</telefono>
+    <correo>NO APLICA</correo>
+    <labora_plant>NO APLICA</labora_plant>
+    <donde_labora>NO APLICA</donde_labora>
+    <matricula_m>NO APLICA</matricula_m>
+    <matricula_f>NO APLICA</matricula_f>
+    <sexo>NO APLICA</sexo>
+    <grado>NO APLICA</grado>
+    <seccion>NO APLICA</seccion>
+    <fcha_ingplant>NO APLICA</fcha_ingplant>
+    <nivel_instru>NO APLICA</nivel_instru>
+    <estudia>NO APLICA</estudia>
+    <detalle_estudio>NO APLICA</detalle_estudio>
+  </recurso>
+</nomina>

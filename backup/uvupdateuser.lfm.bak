@@ -1,0 +1,177 @@
+object vupdateuser: Tvupdateuser
+  Left = 417
+  Height = 307
+  Top = 190
+  Width = 347
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'vupdateuser'
+  ClientHeight = 307
+  ClientWidth = 347
+  OnCloseQuery = FormCloseQuery
+  OnShow = FormShow
+  Position = poScreenCenter
+  LCLVersion = '1.2.4.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 307
+    Top = 0
+    Width = 347
+    Align = alClient
+    BevelInner = bvRaised
+    BevelOuter = bvLowered
+    BevelWidth = 5
+    BorderWidth = 5
+    ClientHeight = 307
+    ClientWidth = 347
+    Color = 11368018
+    ParentColor = False
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 15
+      Height = 25
+      Top = 15
+      Width = 317
+      Align = alTop
+      Alignment = taCenter
+      Caption = 'Actualizar Usuario'
+      Color = clSkyBlue
+      Font.Height = -20
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+    end
+    object editnombre: TEdit
+      Left = 176
+      Height = 21
+      Top = 64
+      Width = 136
+      OnKeyPress = editnombreKeyPress
+      TabOrder = 0
+    end
+    object Label2: TLabel
+      Left = 27
+      Height = 16
+      Top = 70
+      Width = 139
+      Caption = 'Nombre de Usuario:'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label3: TLabel
+      Left = 83
+      Height = 16
+      Top = 104
+      Width = 83
+      Caption = 'Contraseña:'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label4: TLabel
+      Left = 126
+      Height = 16
+      Top = 144
+      Width = 40
+      Caption = 'Nivel:'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object combolvl: TComboBox
+      Left = 176
+      Height = 21
+      Top = 140
+      Width = 136
+      ItemHeight = 13
+      Items.Strings = (
+        'Administrador'
+        'Sub-Administrador'
+        'Usuario'
+      )
+      Style = csDropDownList
+      TabOrder = 1
+    end
+    object btninsertar: TBitBtn
+      Left = 238
+      Height = 30
+      Top = 248
+      Width = 75
+      Caption = 'Actualizar'
+      OnClick = btninsertarClick
+      TabOrder = 2
+    end
+    object Label5: TLabel
+      Cursor = crHandPoint
+      Left = 176
+      Height = 16
+      Top = 104
+      Width = 137
+      Caption = 'cambiar contraseña'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold, fsItalic, fsUnderline]
+      ParentColor = False
+      ParentFont = False
+      OnClick = Label5Click
+    end
+    object combopregunta: TComboBox
+      Left = 176
+      Height = 21
+      Top = 176
+      Width = 136
+      ItemHeight = 13
+      Items.Strings = (
+        ''
+        'Nombre de hijo/hija'
+        'Nombre de la madre'
+        'Quien soy yo'
+        'Libro favorito'
+        'Mayor logro'
+        'Quien soy'
+        'Pelicula favorita'
+      )
+      Style = csDropDownList
+      TabOrder = 3
+    end
+    object editrespuesta: TEdit
+      Left = 176
+      Height = 21
+      Top = 208
+      Width = 136
+      TabOrder = 4
+    end
+    object Label6: TLabel
+      Left = 31
+      Height = 16
+      Top = 213
+      Width = 135
+      Caption = 'Respuesta secreta:'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object Label7: TLabel
+      Left = 44
+      Height = 16
+      Top = 181
+      Width = 122
+      Caption = 'Pregunta secreta:'
+      Font.Color = clWhite
+      Font.Height = -13
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+  end
+end

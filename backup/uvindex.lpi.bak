@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="uvindex"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="8">
+      <Item1>
+        <PackageName Value="lazreportpdfexport"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="FCL"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="MemDSLaz"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="TAChartLazarusPkg"/>
+      </Item4>
+      <Item5>
+        <PackageName Value="lazreport"/>
+      </Item5>
+      <Item6>
+        <PackageName Value="indylaz"/>
+      </Item6>
+      <Item7>
+        <PackageName Value="SQLDBLaz"/>
+      </Item7>
+      <Item8>
+        <PackageName Value="LCL"/>
+      </Item8>
+    </RequiredPackages>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="uvindex.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uvindex"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="index.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vcinicio"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="index"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uvpricipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vprincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvpricipal"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uvimportar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vimportar"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvimportar"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="uvbd.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dbmodule"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="uvbd"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="uvimportar2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vimportar2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvimportar2"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uvftp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vftp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvftp"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="uvcargaftp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vcargaftp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvcargaftp"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="uvconsultas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vconsultas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvconsultas"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="uvcolsutas2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vconsultas2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvcolsutas2"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="uvreportes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vreportes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvreportes"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="uvgraficos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vgraficos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvgraficos"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="uvusuarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vusuarios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvusuarios"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="uvadduser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vadduser"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvadduser"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="uvupdateuser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vupdateuser"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvupdateuser"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="uvrestaurar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vrestaurar"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvrestaurar"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="uvbdsalvar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="vbdsalvar"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uvbdsalvar"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="uscaledpi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uscaledpi"/>
+      </Unit17>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="uvindex"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="..\..\..\Downloads\librerias\indy-10.2.0.3\indy\fpc;C:\Documents and Settings\Administrador\Mis documentos\Librerias\indy-10.2.0.3\fpc\;C:\Users\TheInsane\Downloads\librerias\indy-10.2.0.3\indy\fpc\"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="26">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+      <Item4>
+        <Name Value="EGridException"/>
+      </Item4>
+      <Item5>
+        <Name Value="EPQDatabaseError"/>
+      </Item5>
+      <Item6>
+        <Name Value="EDatabaseError"/>
+      </Item6>
+      <Item7>
+        <Name Value="EListError"/>
+      </Item7>
+      <Item8>
+        <Name Value="EIdConnClosedGracefully"/>
+      </Item8>
+      <Item9>
+        <Name Value="EIdReplyRFCError"/>
+      </Item9>
+      <Item10>
+        <Name Value="Exception"/>
+      </Item10>
+      <Item11>
+        <Name Value="EIdAlreadyConnected"/>
+      </Item11>
+      <Item12>
+        <Name Value="EIdFTPFileAlreadyExists"/>
+      </Item12>
+      <Item13>
+        <Name Value="EIdSocketError"/>
+      </Item13>
+      <Item14>
+        <Name Value="EConvertError"/>
+      </Item14>
+      <Item15>
+        <Name Value="EIdNotConnected"/>
+      </Item15>
+      <Item16>
+        <Name Value="RunError(5)"/>
+      </Item16>
+      <Item17>
+        <Name Value="EInOutError"/>
+      </Item17>
+      <Item18>
+        <Name Value="EDSError"/>
+      </Item18>
+      <Item19>
+        <Name Value="EParserError"/>
+      </Item19>
+      <Item20>
+        <Name Value="EVariantError"/>
+      </Item20>
+      <Item21>
+        <Name Value="RunError(201)"/>
+      </Item21>
+      <Item22>
+        <Name Value="ERangeError"/>
+      </Item22>
+      <Item23>
+        <Name Value="EEditableSourceRequired"/>
+      </Item23>
+      <Item24>
+        <Name Value="EStringListError"/>
+      </Item24>
+      <Item25>
+        <Name Value="EVariantTypeCastError"/>
+      </Item25>
+      <Item26>
+        <Name Value="EDOMError"/>
+      </Item26>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

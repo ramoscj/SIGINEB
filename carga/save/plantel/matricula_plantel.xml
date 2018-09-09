@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <matricula_plantel>
+    <plantel>PLANTEL</plantel>
+    <grado>GRADO</grado>
+    <seccion>SECCIÃ“N</seccion>
+    <matricula_m>MATRICULA M</matricula_m>
+    <matricula_f>MATRICULA F</matricula_f>
+    <turno>TURNO</turno>
+    <nivel>NIVEL</nivel>
+    <cod_est>COD_EST</cod_est>
+  </matricula_plantel>
+  <matricula_plantel>
+    <plantel>E.B.B. EL TORO</plantel>
+    <grado>1</grado>
+    <seccion>U</seccion>
+    <matricula_m>1</matricula_m>
+    <matricula_f>5</matricula_f>
+    <turno>MAÃ‘ANA</turno>
+    <nivel>PRIMARIA</nivel>
+    <cod_est>ASDASD123123</cod_est>
+  </matricula_plantel>
+</plantel>

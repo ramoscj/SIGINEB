@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <datos>
+    <plantel>0000</plantel>
+    <ner>0000</ner>
+    <municipio>0000</municipio>
+    <dependencia>0000</dependencia>
+    <des_cdep>0000</des_cdep>
+    <tipo>0000</tipo>
+    <cod_adm>0000</cod_adm>
+    <cod_dea>0000</cod_dea>
+    <cod_est>0000</cod_est>
+    <telefono>0000</telefono>
+    <correo>0000</correo>
+    <horario>0000</horario>
+    <parroquia>0000</parroquia>
+    <direccion>0000</direccion>
+    <ubi_geograf>0000</ubi_geograf>
+    <longitud>0000</longitud>
+    <latitud>0000</latitud>
+    <resena>0000</resena>
+    <act_soce>0000</act_soce>
+    <act_socp>0000</act_socp>
+  </datos>
+  <datos>
+    <plantel>E.B.B. BARINAS</plantel>
+    <ner>NO</ner>
+    <municipio>BARINAS</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>E.B.B. BARINAS</des_cdep>
+    <tipo>CONCENTRADA	</tipo>
+    <cod_adm>123123</cod_adm>
+    <cod_dea>123123</cod_dea>
+    <cod_est>ASDASDASD</cod_est>
+    <telefono>1111-1111111</telefono>
+    <correo>aaaaaaaaaaa</correo>
+    <horario>8:00 A 4:00</horario>
+    <parroquia>NO APLICA</parroquia>
+    <direccion>NO APLICA</direccion>
+    <ubi_geograf>NO APLICA</ubi_geograf>
+    <longitud>NO APLICA</longitud>
+    <latitud>NO APLICA</latitud>
+    <resena>NO APLICA</resena>
+    <act_soce>NO APLICA</act_soce>
+    <act_socp>NO APLICA</act_socp>
+  </datos>
+</plantel>

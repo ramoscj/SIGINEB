@@ -1,0 +1,348 @@
+object vrestaurar: Tvrestaurar
+  Left = 167
+  Height = 285
+  Top = 198
+  Width = 839
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Operaciones en BD...'
+  ClientHeight = 285
+  ClientWidth = 839
+  OnCloseQuery = FormCloseQuery
+  OnShow = FormShow
+  Position = poScreenCenter
+  ShowInTaskBar = stAlways
+  LCLVersion = '1.2.4.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 285
+    Top = 0
+    Width = 839
+    Align = alClient
+    BevelInner = bvRaised
+    BevelOuter = bvLowered
+    BevelWidth = 5
+    BorderWidth = 5
+    ClientHeight = 285
+    ClientWidth = 839
+    Color = 11368018
+    ParentColor = False
+    TabOrder = 0
+    object Panel2: TPanel
+      Left = 15
+      Height = 255
+      Top = 15
+      Width = 417
+      Align = alLeft
+      ClientHeight = 255
+      ClientWidth = 417
+      TabOrder = 0
+      object btnschema: TBitBtn
+        Left = 296
+        Height = 30
+        Top = 208
+        Width = 75
+        Caption = 'Crear'
+        OnClick = btnschemaClick
+        TabOrder = 0
+      end
+      object editdir: TEdit
+        Left = 198
+        Height = 21
+        Hint = 'Ejeplo:'#13#10'C:\esquemas\formato_esquema.sql'
+        Top = 168
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 1
+      end
+      object BitBtn1: TBitBtn
+        Cursor = crHandPoint
+        Left = 368
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 167
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn1Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+      end
+      object editnshema: TEdit
+        Left = 198
+        Height = 21
+        Hint = 'Nombre del esquema en la BD, ejemplo:'#13#10'primaria_2014'#13#10'primaria_2013'#13#10'primaria_2012'
+        Top = 88
+        Width = 168
+        OnKeyPress = editnshemaKeyPress
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 3
+      end
+      object edittshema: TEdit
+        Left = 198
+        Height = 21
+        Hint = 'Nombre del esquema en sistema ejemplo:'#13#10'Año Escolar 2014-2015'
+        Top = 48
+        Width = 168
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 4
+      end
+      object Label4: TLabel
+        Left = 30
+        Height = 20
+        Top = 48
+        Width = 156
+        Caption = 'Titulo del esquema:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object Label3: TLabel
+        Left = 46
+        Height = 20
+        Top = 90
+        Width = 141
+        Caption = 'Nombre en la BD:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object Label5: TLabel
+        Left = 16
+        Height = 20
+        Top = 168
+        Width = 171
+        Caption = 'Plantilla de esquema:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+      object Label1: TLabel
+        Left = 1
+        Height = 25
+        Top = 1
+        Width = 415
+        Align = alTop
+        Alignment = taCenter
+        Caption = 'Crear nuevo Esquema'
+        Color = clSkyBlue
+        Font.Height = -20
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+        Transparent = False
+      end
+      object BitBtn2: TBitBtn
+        Cursor = crHandPoint
+        Left = 368
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 127
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn2Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 5
+      end
+      object editdirpg: TEdit
+        Left = 198
+        Height = 21
+        Hint = 'Ejemplo:'#13#10'C:\Program Files\PostgreSQL\9.3\bin'
+        Top = 128
+        Width = 168
+        Alignment = taRightJustify
+        ParentShowHint = False
+        ReadOnly = True
+        ShowHint = True
+        TabOrder = 6
+      end
+      object Label6: TLabel
+        Left = 8
+        Height = 20
+        Top = 130
+        Width = 184
+        Caption = 'Directorio de Postgres:'
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+      end
+    end
+    object ScrollBar1: TScrollBar
+      Left = 432
+      Height = 255
+      Top = 15
+      Width = 17
+      Align = alLeft
+      Kind = sbVertical
+      PageSize = 0
+      TabOrder = 1
+    end
+    object Panel3: TPanel
+      Left = 449
+      Height = 255
+      Top = 15
+      Width = 375
+      Align = alClient
+      ClientHeight = 255
+      ClientWidth = 375
+      TabOrder = 2
+      object BitBtn3: TBitBtn
+        Cursor = crHandPoint
+        Left = 368
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 167
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn1Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 0
+      end
+      object Label2: TLabel
+        Left = 1
+        Height = 25
+        Top = 1
+        Width = 373
+        Align = alTop
+        Alignment = taCenter
+        Caption = 'Esquemas existentes'
+        Color = clSkyBlue
+        Font.Height = -20
+        Font.Style = [fsBold]
+        ParentColor = False
+        ParentFont = False
+        Transparent = False
+      end
+      object BitBtn4: TBitBtn
+        Cursor = crHandPoint
+        Left = 368
+        Height = 24
+        Hint = 'Seleccione directorio'
+        Top = 127
+        Width = 30
+        Caption = '...'
+        OnClick = BitBtn2Click
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+      end
+      object stgesquemas: TStringGrid
+        Left = 1
+        Height = 179
+        Top = 26
+        Width = 373
+        Align = alTop
+        Color = clMenuHighlight
+        Columns = <        
+          item
+            Font.Color = clBlack
+            Title.Alignment = taCenter
+            Title.Caption = 'NOMBRE EN EL SISTEMA'
+            Width = 240
+          end        
+          item
+            Font.Color = clBlack
+            Title.Alignment = taCenter
+            Title.Caption = 'NOMBRE DEL ESQUEMA'
+            Width = 240
+          end        
+          item
+            Font.Color = clBlack
+            Title.Caption = 'FECHA'
+          end        
+          item
+            Font.Color = clBlack
+            Font.Height = -16
+            Font.Style = [fsBold]
+            Title.Caption = 'ID'
+            Visible = False
+          end>
+        FixedColor = clBlack
+        Font.Color = clWhite
+        Font.Height = -16
+        Font.Style = [fsBold]
+        Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goRowSelect, goThumbTracking, goSmoothScroll]
+        ParentFont = False
+        RowCount = 1
+        TabOrder = 2
+        TitleFont.Color = clWhite
+        TitleFont.Height = -16
+        TitleFont.Style = [fsBold]
+        OnSelectCell = stgesquemasSelectCell
+        ColWidths = (
+          64
+          240
+          240
+          64
+          0
+        )
+      end
+      object btneliminar: TBitBtn
+        Left = 56
+        Height = 30
+        Top = 216
+        Width = 75
+        Caption = 'Eliminar'
+        OnClick = btneliminarClick
+        TabOrder = 3
+      end
+      object btneditar: TBitBtn
+        Left = 160
+        Height = 30
+        Top = 216
+        Width = 75
+        Caption = 'Editar'
+        OnClick = btneditarClick
+        TabOrder = 4
+      end
+      object BitBtn5: TBitBtn
+        Left = 266
+        Height = 30
+        Top = 216
+        Width = 75
+        Caption = 'Refrescar'
+        OnClick = BitBtn5Click
+        TabOrder = 5
+      end
+    end
+  end
+  object Process1: TProcess
+    Active = False
+    Options = []
+    Priority = ppNormal
+    StartupOptions = []
+    ShowWindow = swoNone
+    WindowColumns = 0
+    WindowHeight = 0
+    WindowLeft = 0
+    WindowRows = 0
+    WindowTop = 0
+    WindowWidth = 0
+    FillAttribute = 0
+    left = 88
+    top = 224
+  end
+  object abrirfile: TOpenDialog
+    left = 160
+    top = 224
+  end
+  object abrirdir: TSelectDirectoryDialog
+    left = 234
+    top = 224
+  end
+end

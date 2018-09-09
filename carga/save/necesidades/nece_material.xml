@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_material>
+    <plantel>PLANTEL</plantel>
+    <necesidad>NECESIDAD</necesidad>
+    <descripcion>DESCRIPCION</descripcion>
+    <identificador>IDENTIFICADOR</identificador>
+    <cod_est>COD_EST</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. EL TORO</plantel>
+    <necesidad>ARTICULOS DE OFICINA</necesidad>
+    <descripcion>uuuuuuu</descripcion>
+    <identificador>7</identificador>
+    <cod_est>ASDASD123123</cod_est>
+  </necesidad_material>
+  <necesidad_material>
+    <plantel>E.B.B. EL TORO</plantel>
+    <necesidad>ARTICULOS DE LIMPIEZA</necesidad>
+    <descripcion>NO APLICA</descripcion>
+    <identificador>8</identificador>
+    <cod_est>ASDASD123123</cod_est>
+  </necesidad_material>
+</plantel>

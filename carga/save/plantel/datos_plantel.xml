@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <datos_plantel>
+    <plantel>PLANTEL</plantel>
+    <ner>N.E.R.</ner>
+    <municipio>MUNICIPIO</municipio>
+    <dependencia>DEPENDENCIA</dependencia>
+    <des_cdep>DESCRIP DEPENDENCIA</des_cdep>
+    <tipo>TIPO DE MODALIDAD</tipo>
+    <cod_adm>CODIGO ADM</cod_adm>
+    <cod_dea>CODIGO DEA</cod_dea>
+    <cod_est>CODIGO EST</cod_est>
+    <telefono>TELEFONO</telefono>
+    <correo>CORREO</correo>
+    <horario>HORARIO</horario>
+    <parroquia>PARROQUIA</parroquia>
+    <direccion>DIRECCIÃ“N</direccion>
+    <ubic_geograf>UBICACIÃ“N GEOGRAF.</ubic_geograf>
+    <longitud>LONGITUD</longitud>
+    <latitud>LATITUD</latitud>
+    <resena>RESEÃ‘A HISTORICA</resena>
+    <act_soce>ACTIVIDAD SOC. ECONOMICA</act_soce>
+    <act_socp>ACTIVIDAD SOC. PRODUCTIVA</act_socp>
+    <infraestructura>INFRAESTRUCTURA</infraestructura>
+    <tenencia>TENENCIA</tenencia>
+    <medidas_terreno>MTS DEL TERRENO</medidas_terreno>
+    <plantel_constr>PLANTEL EN CONSTRUCCIÃ“N</plantel_constr>
+    <n_aulas>NÂ° AULAS</n_aulas>
+    <n_banos>NÂ° BAÃ‘OS</n_banos>
+    <n_oficina>NÂ° OFICINAS</n_oficina>
+    <area_cocina>AREA DE COCINA</area_cocina>
+    <cancha_dep>CANCHA DEPORTIVA</cancha_dep>
+    <bilioteca>BIBLIOTECA</bilioteca>
+    <comedor>COMEDOR</comedor>
+    <cerca_perime>CERCA PERIMETRAL</cerca_perime>
+    <sala_compu>SALA DE COMPUTACION</sala_compu>
+    <n_pisos>NÂ° PISOS</n_pisos>
+    <agua_blanca>AGUAS BLANCAS</agua_blanca>
+    <agua_negra>AGUAS NEGRAS</agua_negra>
+    <feha_hinte>FECHA DE INGRE. H. INTEGRAL</feha_hinte>
+  </datos_plantel>
+  <datos_plantel>
+    <plantel>E.B.B. EL TORO</plantel>
+    <ner>SI</ner>
+    <municipio>BARINAS</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>N.E.R. 045</des_cdep>
+    <tipo>BOLIVARIANA	</tipo>
+    <cod_adm>6970045</cod_adm>
+    <cod_dea>SDASD12312</cod_dea>
+    <cod_est>ASDASD123123</cod_est>
+    <telefono>NO A-       </telefono>
+    <correo>NO APLICA</correo>
+    <horario>NO APLICA</horario>
+    <parroquia>BARINAS</parroquia>
+    <direccion>NO APLICA</direccion>
+    <ubic_geograf>NO APLICA</ubic_geograf>
+    <longitud>NO APLICA</longitud>
+    <latitud>NO APLICA</latitud>
+    <resena>NO APLICA</resena>
+    <act_soce>NO APLICA</act_soce>
+    <act_socp>NO APLICA</act_socp>
+    <infraestructura>NO APLICA</infraestructura>
+    <tenencia>NO APLICA</tenencia>
+    <medidas_terreno>0</medidas_terreno>
+    <plantel_constr>NO APLICA</plantel_constr>
+    <n_aulas>0</n_aulas>
+    <n_banos>0</n_banos>
+    <n_oficina>0</n_oficina>
+    <area_cocina>NO APLICA</area_cocina>
+    <cancha_dep>0</cancha_dep>
+    <bilioteca>0</bilioteca>
+    <comedor>0</comedor>
+    <cerca_perime>NO APLICA</cerca_perime>
+    <sala_compu>0</sala_compu>
+    <n_pisos>0</n_pisos>
+    <agua_blanca>NO APLICA</agua_blanca>
+    <agua_negra>NO APLICA</agua_negra>
+    <feha_hinte>17/12/2014</feha_hinte>
+  </datos_plantel>
+  <datos_plantel>
+    <plantel>E.B.B. BRISAS</plantel>
+    <ner>SI</ner>
+    <municipio>BARINAS</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>N.E.R. 045</des_cdep>
+    <tipo>UNIDAD EDUCATIVA</tipo>
+    <cod_adm>6970045</cod_adm>
+    <cod_dea>ASDASD3134213</cod_dea>
+    <cod_est>ASDASD56765</cod_est>
+    <telefono>-       </telefono>
+    <correo>NO APLICA</correo>
+    <horario>NO APLICA</horario>
+    <parroquia>BARINAS</parroquia>
+    <direccion>NO APLICA</direccion>
+    <ubic_geograf>NO APLICA</ubic_geograf>
+    <longitud>NO APLICA</longitud>
+    <latitud>NO APLICA</latitud>
+    <resena>NO APLICA</resena>
+    <act_soce>NO APLICA</act_soce>
+    <act_socp>NO APLICA</act_socp>
+    <infraestructura>NO APLICA</infraestructura>
+    <tenencia>NO APLICA</tenencia>
+    <medidas_terreno>0</medidas_terreno>
+    <plantel_constr>NO APLICA</plantel_constr>
+    <n_aulas>0</n_aulas>
+    <n_banos>0</n_banos>
+    <n_oficina>0</n_oficina>
+    <area_cocina>NO APLICA</area_cocina>
+    <cancha_dep>0</cancha_dep>
+    <bilioteca>0</bilioteca>
+    <comedor>0</comedor>
+    <cerca_perime>NO APLICA</cerca_perime>
+    <sala_compu>0</sala_compu>
+    <n_pisos>0</n_pisos>
+    <agua_blanca>NO APLICA</agua_blanca>
+    <agua_negra>NO APLICA</agua_negra>
+    <feha_hinte>NO APLICA</feha_hinte>
+  </datos_plantel>
+  <datos_plantel>
+    <plantel>E.B.B. ANIME</plantel>
+    <ner>SI</ner>
+    <municipio>BARINAS</municipio>
+    <dependencia>NACIONAL</dependencia>
+    <des_cdep>N.E.R. 045</des_cdep>
+    <tipo>CONCENTRADA	</tipo>
+    <cod_adm>6970045</cod_adm>
+    <cod_dea>FGH3456354</cod_dea>
+    <cod_est>WASEQWE123</cod_est>
+    <telefono>-       </telefono>
+    <correo>NO APLICA</correo>
+    <horario>NO APLICA</horario>
+    <parroquia>BARINAS</parroquia>
+    <direccion>NO APLICA</direccion>
+    <ubic_geograf>NO APLICA</ubic_geograf>
+    <longitud>NO APLICA</longitud>
+    <latitud>NO APLICA</latitud>
+    <resena>NO APLICA</resena>
+    <act_soce>NO APLICA</act_soce>
+    <act_socp>NO APLICA</act_socp>
+    <infraestructura>NO APLICA</infraestructura>
+    <tenencia>NO APLICA</tenencia>
+    <medidas_terreno>0</medidas_terreno>
+    <plantel_constr>NO APLICA</plantel_constr>
+    <n_aulas>0</n_aulas>
+    <n_banos>0</n_banos>
+    <n_oficina>0</n_oficina>
+    <area_cocina>NO APLICA</area_cocina>
+    <cancha_dep>0</cancha_dep>
+    <bilioteca>0</bilioteca>
+    <comedor>0</comedor>
+    <cerca_perime>NO APLICA</cerca_perime>
+    <sala_compu>0</sala_compu>
+    <n_pisos>0</n_pisos>
+    <agua_blanca>NO APLICA</agua_blanca>
+    <agua_negra>NO APLICA</agua_negra>
+    <feha_hinte>NO APLICA</feha_hinte>
+  </datos_plantel>
+</plantel>

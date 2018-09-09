@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_infra>
+    <plantel>PLANTEL</plantel>
+    <unidad>UNIDAD</unidad>
+    <necesidad>NECESIDAD</necesidad>
+    <cantidad>CANTIDAD</cantidad>
+    <descripcion>DESCRIPCION</descripcion>
+    <identificador>IDENTIFICADOR</identificador>
+    <tipo>COD_EST</tipo>
+  </necesidad_infra>
+  <necesidad_infra>
+    <plantel>E.B.B. EL TORO</plantel>
+    <unidad>AULAS</unidad>
+    <necesidad>CONSTRUCCION</necesidad>
+    <cantidad>1</cantidad>
+    <descripcion>iiiiiiiiiiiiiiii</descripcion>
+    <identificador>3</identificador>
+    <tipo>ASDASD123123</tipo>
+  </necesidad_infra>
+</plantel>

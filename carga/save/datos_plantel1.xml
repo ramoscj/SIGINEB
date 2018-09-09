@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plantel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<datos>
+		<plantel>0000</plantel>
+		<ner>0000</ner>
+		<municipio>0000</municipio>
+		<dependencia>0000</dependencia>
+		<des_cdep>0000</des_cdep>
+		<tipo>0000</tipo>
+		<cod_adm>0000</cod_adm>
+		<cod_dea>0000</cod_dea>
+		<cod_est>0000</cod_est>
+		<telefono>0000</telefono>
+		<correo>0000</correo>
+		<horario>0000</horario>
+		<parroquia>0000</parroquia>
+		<direccion>0000</direccion>
+		<ubi_geograf>0000</ubi_geograf>
+		<longitud>0000</longitud>
+		<latitud>0000</latitud>
+		<resena>0000</resena>
+		<act_soce>0000</act_soce>
+		<act_socp>0000</act_socp>
+	</datos>
+	<datos/>
+</plantel>

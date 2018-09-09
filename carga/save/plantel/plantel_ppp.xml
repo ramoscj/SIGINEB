@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <p_p_p>
+    <plantel>PLANTEL</plantel>
+    <ejecutado>PLAN EJECUTADO</ejecutado>
+    <formado>FORMADOS</formado>
+    <cod_est>COD_EST</cod_est>
+    <cod_ppp>COD_PPP</cod_ppp>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. EL TORO</plantel>
+    <ejecutado>PROYECTO P.E.I.C.</ejecutado>
+    <formado>NO</formado>
+    <cod_est>ASDASD123123</cod_est>
+    <cod_ppp>1</cod_ppp>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. EL TORO</plantel>
+    <ejecutado>PROYECTO CANAIMA</ejecutado>
+    <formado>NO</formado>
+    <cod_est>ASDASD123123</cod_est>
+    <cod_ppp>5</cod_ppp>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. EL TORO</plantel>
+    <ejecutado>PROYECTO DE RADIO ESCOLAR</ejecutado>
+    <formado>SI</formado>
+    <cod_est>ASDASD123123</cod_est>
+    <cod_ppp>6</cod_ppp>
+  </p_p_p>
+  <p_p_p>
+    <plantel>E.B.B. EL TORO</plantel>
+    <ejecutado>PROYECTO TODAS LAS MANOS A LA SIEMBRA</ejecutado>
+    <formado>SI</formado>
+    <cod_est>ASDASD123123</cod_est>
+    <cod_ppp>4</cod_ppp>
+  </p_p_p>
+</plantel>

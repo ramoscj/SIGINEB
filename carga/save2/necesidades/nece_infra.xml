@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plantel>
+  <necesidad_infra>
+    <plantel>NO APLICA</plantel>
+    <unidad>NO APLICA</unidad>
+    <necesidad>NO APLICA</necesidad>
+    <cantidad>NO APLICA</cantidad>
+    <descripcion>NO APLICA</descripcion>
+    <identificador>NO APLICA</identificador>
+    <tipo>NO APLICA</tipo>
+  </necesidad_infra>
+  <necesidad_infra>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <unidad>AULAS</unidad>
+    <necesidad>CONSTRUCCION</necesidad>
+    <cantidad>2</cantidad>
+    <descripcion>asdasdasd</descripcion>
+    <identificador>4</identificador>
+    <tipo>DDD44KKK</tipo>
+  </necesidad_infra>
+  <necesidad_infra>
+    <plantel>E.B.B. SIMON ANTONI JIMENZ</plantel>
+    <unidad>AGUAS NEGRAS</unidad>
+    <necesidad>AMPLIACION</necesidad>
+    <cantidad>1</cantidad>
+    <descripcion>dasdasdasd</descripcion>
+    <identificador>5</identificador>
+    <tipo>DDD44KKK</tipo>
+  </necesidad_infra>
+</plantel>

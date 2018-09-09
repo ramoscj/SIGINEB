@@ -1,0 +1,35 @@
+object vesquemas: Tvesquemas
+  Left = 478
+  Height = 312
+  Top = 213
+  Width = 418
+  Caption = 'vesquemas'
+  ClientHeight = 312
+  ClientWidth = 418
+  LCLVersion = '1.2.4.0'
+  object BitBtn1: TBitBtn
+    Left = 136
+    Height = 30
+    Top = 176
+    Width = 75
+    Caption = 'BitBtn1'
+    OnClick = BitBtn1Click
+    TabOrder = 0
+  end
+  object Process1: TProcess
+    Active = False
+    Options = []
+    Priority = ppNormal
+    StartupOptions = []
+    ShowWindow = swoNone
+    WindowColumns = 0
+    WindowHeight = 0
+    WindowLeft = 0
+    WindowRows = 0
+    WindowTop = 0
+    WindowWidth = 0
+    FillAttribute = 0
+    left = 136
+    top = 72
+  end
+end
